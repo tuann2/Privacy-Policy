@@ -111,6 +111,7 @@ Nếu bạn có bất kỳ câu hỏi nào về Chính sách Quyền riêng tư,
 
 **Customer Support Bot Support Team**  
 📧 Email: nt0vms@hotmail.com
-🌐 Website: **your-website-url.com** (nếu có)
+
+🌐 Website: https://tuann2.github.io/Privacy-Policy/
 
 ---
